@@ -1,0 +1,934 @@
+CRITICAL - 2023-07-05 00:01:57 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 00:19:51 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 00:32:55 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 00:52:16 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 00:57:25 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 00:57:45 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 00:57:46 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 01:02:11 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 01:05:53 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 01:20:18 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 01:32:34 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 02:02:36 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 02:19:18 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 02:30:54 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 02:39:07 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 03:00:56 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 03:30:54 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 04:00:26 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 04:01:56 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 04:03:18 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 04:04:11 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 04:05:28 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 04:06:29 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 04:30:57 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 05:01:00 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 05:18:44 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 05:31:08 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 06:02:20 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 06:31:11 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 07:01:06 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 07:01:30 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 07:15:34 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 07:31:03 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 07:33:35 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 07:35:41 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 07:38:30 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 07:43:18 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 08:03:15 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 08:25:26 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 08:32:28 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 09:03:59 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 09:22:36 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 09:26:38 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 09:33:20 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 10:03:19 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 10:04:03 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 10:34:33 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 11:02:52 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 11:32:56 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 12:04:04 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 12:05:38 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 12:33:10 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 13:04:13 --> Undefined array key "g-recaptcha-response"
+in APPPATH/Common.php on line 1064.
+ 1 APPPATH/Common.php(1064): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(407): reCaptcha()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\HomeController->contactPost()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 13:05:24 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 13:33:01 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 14:05:24 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 14:35:13 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 15:04:58 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 15:36:58 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 15:37:58 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 16:05:31 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 16:35:26 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 17:04:48 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 17:19:41 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 17:19:46 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 17:20:27 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 17:34:46 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 18:05:00 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 18:37:12 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 19:04:30 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 19:35:26 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 20:05:36 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 20:06:09 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 20:09:54 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 20:13:37 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 20:14:50 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 20:37:03 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 21:05:03 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 21:07:29 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 21:33:27 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 21:38:46 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 21:40:09 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 21:41:38 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 21:42:57 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 22:06:17 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 22:35:31 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 23:03:24 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-05 23:16:30 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 600.
+ 1 APPPATH/Models/SettingsModel.php(600): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-05 23:33:28 --> Uncaught ErrorException: Undefined variable $activeTheme in /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php:2
+Stack trace:
+#0 /home/khabarnews/domains/khabarnews.com/public_html/app/Views/errors/html/error_404.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(284): include('...')
+#2 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(287): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/khabarnews/domains/khabarnews.com/public_html/system/Debug/Exceptions.php(139): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+in APPPATH/Views/errors/html/error_404.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

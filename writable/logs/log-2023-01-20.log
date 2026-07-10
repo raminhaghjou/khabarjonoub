@@ -1,0 +1,3 @@
+CRITICAL - 2023-01-20 18:18:11 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 23072768 bytes)
+in SYSTEMPATH/Cache/Handlers/FileHandler.php on line 99.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

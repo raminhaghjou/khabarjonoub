@@ -1,0 +1,68 @@
+CRITICAL - 2023-01-29 21:26:36 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 176.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(176): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Models/UploadModel.php(44): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 APPPATH/Models/UploadModel.php(184): App\Models\UploadModel->upload()
+ 6 APPPATH/Models/SettingsModel.php(53): App\Models\UploadModel->uploadLogo()
+ 7 APPPATH/Controllers/AdminController.php(1637): App\Models\SettingsModel->updateSettings()
+ 8 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\AdminController->generalSettingsPost()
+ 9 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-29 21:33:16 --> Attempt to read property "application_name" on null
+in APPPATH/Views/admin/settings/general_settings.php on line 50.
+ 1 APPPATH/Views/admin/settings/general_settings.php(50): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/settings/general_settings.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/AdminController.php(1622): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\AdminController->generalSettings()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-29 21:33:44 --> Attempt to read property "application_name" on null
+in APPPATH/Views/admin/settings/general_settings.php on line 50.
+ 1 APPPATH/Views/admin/settings/general_settings.php(50): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/settings/general_settings.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/AdminController.php(1622): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\AdminController->generalSettings()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-29 21:33:47 --> Attempt to read property "application_name" on null
+in APPPATH/Views/admin/settings/general_settings.php on line 50.
+ 1 APPPATH/Views/admin/settings/general_settings.php(50): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/settings/general_settings.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/AdminController.php(1622): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\AdminController->generalSettings()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-29 21:33:57 --> Attempt to read property "application_name" on null
+in APPPATH/Views/admin/settings/general_settings.php on line 50.
+ 1 APPPATH/Views/admin/settings/general_settings.php(50): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/settings/general_settings.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/AdminController.php(1622): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\AdminController->generalSettings()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-29 21:34:21 --> Attempt to read property "application_name" on null
+in APPPATH/Views/admin/settings/general_settings.php on line 50.
+ 1 APPPATH/Views/admin/settings/general_settings.php(50): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/settings/general_settings.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/AdminController.php(1622): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\AdminController->generalSettings()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()

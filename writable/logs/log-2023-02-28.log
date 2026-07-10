@@ -1,0 +1,539 @@
+CRITICAL - 2023-02-28 01:33:53 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:06 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:06 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:20 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:20 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:20 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:20 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:20 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:20 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:20 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:20 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:21 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:21 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:21 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:21 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:31 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:34:31 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:36:00 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:36:00 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:36:00 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:36:00 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:41:47 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:41:47 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:41:48 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:41:48 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:41:54 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:41:54 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:42:01 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:42:01 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:42:02 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:42:02 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:42:05 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:42:05 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:42:27 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:42:27 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:42:36 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:42:36 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-28 01:45:17 --> mysqli_sql_exception: Table 'khabarnews_news.ad_spaces' doesn't exist in /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /var/www/khabarnews.ir/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /var/www/khabarnews.ir/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/khabarnews.ir/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/khabarnews.ir/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/khabarnews.ir/app/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/khabarnews.ir/app/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+#6 /var/www/khabarnews.ir/app/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+#7 /var/www/khabarnews.ir/system/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+#8 /var/www/khabarnews.ir/system/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+#9 /var/www/khabarnews.ir/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#10 /var/www/khabarnews.ir/index.php(78): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-02-28 01:45:17 --> Table 'khabarnews_news.ad_spaces' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/CommonModel.php(287): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/BaseController.php(129): App\Models\CommonModel->getAdSpaces()
+ 7 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 8 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 9 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:52:51 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:54:37 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 01:57:21 --> Undefined property: stdClass::$theme_mode
+in APPPATH/Controllers/BaseController.php on line 94.
+ 1 APPPATH/Controllers/BaseController.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 3 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 02:27:52 --> Could not move file {0} to {1} ({2})
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 149.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(149): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+ 2 APPPATH/Models/UploadModel.php(44): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 APPPATH/Models/UploadModel.php(184): App\Models\UploadModel->upload()
+ 4 APPPATH/Models/SettingsModel.php(53): App\Models\UploadModel->uploadLogo()
+ 5 APPPATH/Controllers/AdminController.php(1637): App\Models\SettingsModel->updateSettings()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\AdminController->generalSettingsPost()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 14:56:38 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 306.
+ 1 SYSTEMPATH/Security/Security.php(306): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(55): CodeIgniter\Security\Security->verify()
+ 3 SYSTEMPATH/Filters/Filters.php(173): CodeIgniter\Filters\CSRF->before()
+ 4 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\Filters\Filters->run()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 18:40:54 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 599.
+ 1 APPPATH/Models/SettingsModel.php(599): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/AuthController.php(14): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\AuthController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 19:50:53 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 599.
+ 1 APPPATH/Models/SettingsModel.php(599): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 20:27:22 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 599.
+ 1 APPPATH/Models/SettingsModel.php(599): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 20:54:01 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 599.
+ 1 APPPATH/Models/SettingsModel.php(599): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 21:25:58 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 599.
+ 1 APPPATH/Models/SettingsModel.php(599): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 21:32:11 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 599.
+ 1 APPPATH/Models/SettingsModel.php(599): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/AuthController.php(14): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\AuthController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 22:33:37 --> Attempt to read property "primary_font" on null
+in APPPATH/Models/SettingsModel.php on line 599.
+ 1 APPPATH/Models/SettingsModel.php(599): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/BaseController.php(83): App\Models\SettingsModel->getSelectedFonts()
+ 3 APPPATH/Controllers/HomeController.php(24): App\Controllers\BaseController->initController()
+ 4 SYSTEMPATH/CodeIgniter.php(890): App\Controllers\HomeController->initController()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()

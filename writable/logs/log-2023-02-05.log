@@ -1,0 +1,13 @@
+CRITICAL - 2023-02-05 16:15:55 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 176.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(176): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Models/UploadModel.php(44): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 APPPATH/Models/UploadModel.php(184): App\Models\UploadModel->upload()
+ 6 APPPATH/Models/SettingsModel.php(53): App\Models\UploadModel->uploadLogo()
+ 7 APPPATH/Controllers/AdminController.php(1637): App\Models\SettingsModel->updateSettings()
+ 8 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\AdminController->generalSettingsPost()
+ 9 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(78): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,33 @@
+# Allow all crawlers (default)
+User-agent: *
+Allow: /
+
+# Explicitly allow AI / LLM crawlers (for citation and search in ChatGPT, Perplexity, Claude, etc.)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Cohere-AI
+Allow: /
+
+# Sitemap (if you have sitemap-3.xml, sitemap-4.xml ... add more Sitemap: lines below)
+Sitemap: https://khabarjonoub.com/sitemap.xml
+Sitemap: https://khabarjonoub.com/sitemap-1.xml
+Sitemap: https://khabarjonoub.com/sitemap-2.xml
