@@ -1,4 +1,4 @@
-FROM php:8.2-apache
+FROM php:8.2-apache-bookworm
 
 # نصب extensions مورد نیاز CodeIgniter
 RUN docker-php-ext-install mysqli pdo_mysql && \
