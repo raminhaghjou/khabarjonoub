@@ -5,12 +5,10 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: ci4-web
     restart: unless-stopped
-    ports:
-      - "80:80"
-    volumes:
-      - ./:/var/www/html
+    # پورت 80 رو حذف کردیم → Coolify خودش مدیریت می‌کنه
+    # ports:
+    #   - "80:80"     ← این خط رو کامنت یا حذف کن
     environment:
       - APACHE_DOCUMENT_ROOT=/var/www/html/public
     depends_on:
@@ -20,7 +18,6 @@ services:
 
   db:
     image: mysql:8.0
-    container_name: ci4-mysql
     restart: unless-stopped
     environment:
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpassword123}
@@ -35,8 +32,9 @@ services:
   phpmyadmin:
     image: phpmyadmin/phpmyadmin:latest
     restart: unless-stopped
-    ports:
-      - "8081:80"
+    # پورت 8081 رو هم بهتره حذف کنیم تا Coolify دامنه بده
+    # ports:
+    #   - "8081:80"
     environment:
       PMA_HOST: db
       PMA_USER: root
