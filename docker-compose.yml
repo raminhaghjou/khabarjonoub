@@ -1,0 +1,54 @@
+version: '3.9'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ci4-web
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    volumes:
+      - ./:/var/www/html
+    environment:
+      - APACHE_DOCUMENT_ROOT=/var/www/html/public
+    depends_on:
+      - db
+    networks:
+      - ci_network
+
+  db:
+    image: mysql:8.0
+    container_name: ci4-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpassword123}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-ci4db}
+      MYSQL_USER: ${MYSQL_USER:-ci4user}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-ci4pass}
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - ci_network
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    restart: unless-stopped
+    ports:
+      - "8081:80"
+    environment:
+      PMA_HOST: db
+      PMA_USER: root
+      PMA_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpassword123}
+    depends_on:
+      - db
+    networks:
+      - ci_network
+
+volumes:
+  mysql_data:
+
+networks:
+  ci_network:
+    driver: bridge
