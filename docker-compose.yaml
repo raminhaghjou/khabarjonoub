@@ -13,7 +13,7 @@ services:
     depends_on:
       - db
     networks:
-      - ci_network
+      - coolify
 
   # بقیه سرویس‌ها (db و phpmyadmin) بدون تغییر
   db:
@@ -27,7 +27,7 @@ services:
     volumes:
       - mysql_data:/var/lib/mysql
     networks:
-      - ci_network
+      - coolify
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
@@ -39,11 +39,11 @@ services:
     depends_on:
       - db
     networks:
-      - ci_network
+      - coolify
 
 volumes:
   mysql_data:
 
 networks:
-  ci_network:
-    driver: bridge
+  coolify:
+    external: true
